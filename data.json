@@ -1,4 +1,5 @@
-{
+[
+        {
         "year": "2023",
         "sem": "2",
         "rut": "20121760-1",
@@ -1742,3 +1743,4 @@
         "vinculacion_con_el_medio": "Estrategia de Difusión",
         "investigacion": "investigación a través del diseño (research through design)"
     }
+]
