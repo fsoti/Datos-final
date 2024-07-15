@@ -1,0 +1,1122 @@
+[
+ {
+  "nombre_profe": "ALVAREZ, P.",
+  "veces_ev": 111,
+  "veces_guía": 65,
+  "promedio_PGA": "5.50",
+  "promedio_título": "6.47",
+  "promedio_seminario": "6.28"
+ },
+ {
+  "nombre_profe": "ULIBARRI, X.",
+  "veces_ev": 96,
+  "veces_guía": 72,
+  "promedio_PGA": "5.62",
+  "promedio_título": "6.27",
+  "promedio_seminario": "5.90"
+ },
+ {
+  "nombre_profe": "HERMANSEN, P.",
+  "veces_ev": 94,
+  "veces_guía": 62,
+  "promedio_PGA": "5.40",
+  "promedio_título": "5.99",
+  "promedio_seminario": "5.83"
+ },
+ {
+  "nombre_profe": "MONROY, F.",
+  "veces_ev": 90,
+  "veces_guía": 24,
+  "promedio_PGA": "5.25",
+  "promedio_título": "5.85",
+  "promedio_seminario": "5.66"
+ },
+ {
+  "nombre_profe": "GALVEZ, F.",
+  "veces_ev": 83,
+  "veces_guía": 11,
+  "promedio_PGA": "5.81",
+  "promedio_título": "6.38",
+  "promedio_seminario": "5.80"
+ },
+ {
+  "nombre_profe": "ALLARD, J.",
+  "veces_ev": 82,
+  "veces_guía": 68,
+  "promedio_PGA": "5.49",
+  "promedio_título": "6.19",
+  "promedio_seminario": "6.14"
+ },
+ {
+  "nombre_profe": "MANNS, P.",
+  "veces_ev": 82,
+  "veces_guía": 63,
+  "promedio_PGA": "5.43",
+  "promedio_título": "6.00",
+  "promedio_seminario": "5.71"
+ },
+ {
+  "nombre_profe": "COX, P.",
+  "veces_ev": 78,
+  "veces_guía": 22,
+  "promedio_PGA": "5.26",
+  "promedio_título": "5.74",
+  "promedio_seminario": "5.91"
+ },
+ {
+  "nombre_profe": "DURAN, A.",
+  "veces_ev": 75,
+  "veces_guía": 76,
+  "promedio_PGA": "5.65",
+  "promedio_título": "6.33",
+  "promedio_seminario": "6.22"
+ },
+ {
+  "nombre_profe": "LEONARD, D.",
+  "veces_ev": 73,
+  "veces_guía": 24,
+  "promedio_PGA": "5.28",
+  "promedio_título": "5.77",
+  "promedio_seminario": "5.77"
+ },
+ {
+  "nombre_profe": "HOCES, S.",
+  "veces_ev": 71,
+  "veces_guía": 47,
+  "promedio_PGA": "5.46",
+  "promedio_título": "5.94",
+  "promedio_seminario": "5.74"
+ },
+ {
+  "nombre_profe": "GONZALEZ, A.",
+  "veces_ev": 71,
+  "veces_guía": 49,
+  "promedio_PGA": "5.55",
+  "promedio_título": "6.39",
+  "promedio_seminario": "6.03"
+ },
+ {
+  "nombre_profe": "SYLLEROS, A.",
+  "veces_ev": 69,
+  "veces_guía": 48,
+  "promedio_PGA": "5.16",
+  "promedio_título": "5.92",
+  "promedio_seminario": "5.89"
+ },
+ {
+  "nombre_profe": "RAMIREZ, R.",
+  "veces_ev": 63,
+  "veces_guía": 57,
+  "promedio_PGA": "5.57",
+  "promedio_título": "6.14",
+  "promedio_seminario": "6.08"
+ },
+ {
+  "nombre_profe": "ALFARO, E.",
+  "veces_ev": 61,
+  "veces_guía": 28,
+  "promedio_PGA": "5.41",
+  "promedio_título": "5.92",
+  "promedio_seminario": "5.63"
+ },
+ {
+  "nombre_profe": "CANCINO, J.",
+  "veces_ev": 58,
+  "veces_guía": 52,
+  "promedio_PGA": "5.35",
+  "promedio_título": "5.92",
+  "promedio_seminario": "5.63"
+ },
+ {
+  "nombre_profe": "MORENO, P.",
+  "veces_ev": 58,
+  "veces_guía": 48,
+  "promedio_PGA": "5.59",
+  "promedio_título": "6.26",
+  "promedio_seminario": "5.89"
+ },
+ {
+  "nombre_profe": "POZO, P.",
+  "veces_ev": 58,
+  "veces_guía": 43,
+  "promedio_PGA": "5.16",
+  "promedio_título": "5.84",
+  "promedio_seminario": "5.72"
+ },
+ {
+  "nombre_profe": "JELVEZ, P.",
+  "veces_ev": 57,
+  "veces_guía": 33,
+  "promedio_PGA": "5.40",
+  "promedio_título": "5.94",
+  "promedio_seminario": "5.81"
+ },
+ {
+  "nombre_profe": "CORTEZ, F.",
+  "veces_ev": 56,
+  "veces_guía": 34,
+  "promedio_PGA": "5.19",
+  "promedio_título": "5.68",
+  "promedio_seminario": "5.60"
+ },
+ {
+  "nombre_profe": "FIGUEROA, B.",
+  "veces_ev": 55,
+  "veces_guía": 43,
+  "promedio_PGA": "5.57",
+  "promedio_título": "6.35",
+  "promedio_seminario": "6.10"
+ },
+ {
+  "nombre_profe": "MONTT, D.",
+  "veces_ev": 55,
+  "veces_guía": 11,
+  "promedio_PGA": "5.36",
+  "promedio_título": "5.65",
+  "promedio_seminario": "5.78"
+ },
+ {
+  "nombre_profe": "PARADA, M.",
+  "veces_ev": 53,
+  "veces_guía": 25,
+  "promedio_PGA": "5.29",
+  "promedio_título": "5.67",
+  "promedio_seminario": "5.62"
+ },
+ {
+  "nombre_profe": "HUERTA, O.",
+  "veces_ev": 53,
+  "veces_guía": 19,
+  "promedio_PGA": "5.21",
+  "promedio_título": "5.87",
+  "promedio_seminario": "5.79"
+ },
+ {
+  "nombre_profe": "SANCHEZ, R.",
+  "veces_ev": 47,
+  "veces_guía": 3,
+  "promedio_PGA": "5.60",
+  "promedio_título": "6.10",
+  "promedio_seminario": "5.80"
+ },
+ {
+  "nombre_profe": "RIOS, C.",
+  "veces_ev": 47,
+  "veces_guía": 15,
+  "promedio_PGA": "5.63",
+  "promedio_título": "6.32",
+  "promedio_seminario": "6.28"
+ },
+ {
+  "nombre_profe": "ANDUEZA, L.",
+  "veces_ev": 47,
+  "veces_guía": 23,
+  "promedio_PGA": "5.14",
+  "promedio_título": "5.98",
+  "promedio_seminario": "5.80"
+ },
+ {
+  "nombre_profe": "CARDENAS, L.",
+  "veces_ev": 45,
+  "veces_guía": 7,
+  "promedio_PGA": "5.48",
+  "promedio_título": "6.50",
+  "promedio_seminario": "5.98"
+ },
+ {
+  "nombre_profe": "VILLELA, A.",
+  "veces_ev": 44,
+  "veces_guía": 29,
+  "promedio_PGA": "5.58",
+  "promedio_título": "6.29",
+  "promedio_seminario": "6.18"
+ },
+ {
+  "nombre_profe": "SILVA, Z.",
+  "veces_ev": 42,
+  "veces_guía": 8,
+  "promedio_PGA": "5.47",
+  "promedio_título": "5.91",
+  "promedio_seminario": "5.79"
+ },
+ {
+  "nombre_profe": "TIRONI, M.",
+  "veces_ev": 42,
+  "veces_guía": 18,
+  "promedio_PGA": "5.28",
+  "promedio_título": "6.04",
+  "promedio_seminario": "6.07"
+ },
+ {
+  "nombre_profe": "PALMAROLA, H.",
+  "veces_ev": 41,
+  "veces_guía": 13,
+  "promedio_PGA": "5.20",
+  "promedio_título": "6.15",
+  "promedio_seminario": "5.95"
+ },
+ {
+  "nombre_profe": "NEIRA, J.",
+  "veces_ev": 40,
+  "veces_guía": 40,
+  "promedio_PGA": "5.39",
+  "promedio_título": "5.74",
+  "promedio_seminario": "5.64"
+ },
+ {
+  "nombre_profe": "CARO, I.",
+  "veces_ev": 39,
+  "veces_guía": 35,
+  "promedio_PGA": "5.44",
+  "promedio_título": "6.30",
+  "promedio_seminario": "6.12"
+ },
+ {
+  "nombre_profe": "VEGA, R.",
+  "veces_ev": 38,
+  "veces_guía": 26,
+  "promedio_PGA": "5.58",
+  "promedio_título": "5.99",
+  "promedio_seminario": "5.89"
+ },
+ {
+  "nombre_profe": "DE LOS RIOS, P.",
+  "veces_ev": 35,
+  "veces_guía": 27,
+  "promedio_PGA": "5.58",
+  "promedio_título": "6.07",
+  "promedio_seminario": "6.06"
+ },
+ {
+  "nombre_profe": "GARRETON, M.",
+  "veces_ev": 35,
+  "veces_guía": 8,
+  "promedio_PGA": "5.56",
+  "promedio_título": "6.44",
+  "promedio_seminario": "6.30"
+ },
+ {
+  "nombre_profe": "VIVANCO, T.",
+  "veces_ev": 35,
+  "veces_guía": 21,
+  "promedio_PGA": "5.47",
+  "promedio_título": "6.31",
+  "promedio_seminario": "5.90"
+ },
+ {
+  "nombre_profe": "CASTILLO, E.",
+  "veces_ev": 34,
+  "veces_guía": 19,
+  "promedio_PGA": "-",
+  "promedio_título": "6.24",
+  "promedio_seminario": "6.32"
+ },
+ {
+  "nombre_profe": "MOLLENHAUER, K.",
+  "veces_ev": 33,
+  "veces_guía": 30,
+  "promedio_PGA": "5.50",
+  "promedio_título": "6.32",
+  "promedio_seminario": "6.03"
+ },
+ {
+  "nombre_profe": "HARASIC, C.",
+  "veces_ev": 33,
+  "veces_guía": 5,
+  "promedio_PGA": "5.32",
+  "promedio_título": "6.06",
+  "promedio_seminario": "5.36"
+ },
+ {
+  "nombre_profe": "RAMIREZ, S.",
+  "veces_ev": 32,
+  "veces_guía": 9,
+  "promedio_PGA": "-",
+  "promedio_título": "5.43",
+  "promedio_seminario": "5.52"
+ },
+ {
+  "nombre_profe": "JULIA, B.",
+  "veces_ev": 31,
+  "veces_guía": 2,
+  "promedio_PGA": "5.29",
+  "promedio_título": "6.00",
+  "promedio_seminario": "6.05"
+ },
+ {
+  "nombre_profe": "FARIAS, G.",
+  "veces_ev": 31,
+  "veces_guía": 25,
+  "promedio_PGA": "5.36",
+  "promedio_título": "5.97",
+  "promedio_seminario": "5.85"
+ },
+ {
+  "nombre_profe": "NEGRETE, S.",
+  "veces_ev": 29,
+  "veces_guía": 1,
+  "promedio_PGA": "5.66",
+  "promedio_título": "5.20",
+  "promedio_seminario": "5.60"
+ },
+ {
+  "nombre_profe": "S.I.",
+  "veces_ev": 27,
+  "veces_guía": 1,
+  "promedio_PGA": "4.99",
+  "promedio_título": "4.80",
+  "promedio_seminario": "5.00"
+ },
+ {
+  "nombre_profe": "ZUROB, C.",
+  "veces_ev": 27,
+  "veces_guía": 6,
+  "promedio_PGA": "5.45",
+  "promedio_título": "6.02",
+  "promedio_seminario": "6.12"
+ },
+ {
+  "nombre_profe": "WUTH, P.",
+  "veces_ev": 27,
+  "veces_guía": 4,
+  "promedio_PGA": "5.28",
+  "promedio_título": "5.95",
+  "promedio_seminario": "6.10"
+ },
+ {
+  "nombre_profe": "ARIAS, R.",
+  "veces_ev": 26,
+  "veces_guía": 9,
+  "promedio_PGA": "5.30",
+  "promedio_título": "6.44",
+  "promedio_seminario": "5.66"
+ },
+ {
+  "nombre_profe": "RODRIGUEZ, S.",
+  "veces_ev": 21,
+  "veces_guía": 8,
+  "promedio_PGA": "5.24",
+  "promedio_título": "5.67",
+  "promedio_seminario": "6.08"
+ },
+ {
+  "nombre_profe": "ALMARZA, C.",
+  "veces_ev": 19,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "AVENDAÑO, C.",
+  "veces_ev": 19,
+  "veces_guía": 7,
+  "promedio_PGA": "5.42",
+  "promedio_título": "6.24",
+  "promedio_seminario": "6.07"
+ },
+ {
+  "nombre_profe": "CHILET, M.",
+  "veces_ev": 18,
+  "veces_guía": 17,
+  "promedio_PGA": "5.65",
+  "promedio_título": "6.41",
+  "promedio_seminario": "6.26"
+ },
+ {
+  "nombre_profe": "DE IRUARRIZAGA, T.",
+  "veces_ev": 18,
+  "veces_guía": 1,
+  "promedio_PGA": "5.47",
+  "promedio_título": "5.50",
+  "promedio_seminario": "5.00"
+ },
+ {
+  "nombre_profe": "AMENABAR, A.",
+  "veces_ev": 18,
+  "veces_guía": 8,
+  "promedio_PGA": "5.92",
+  "promedio_título": "6.28",
+  "promedio_seminario": "6.29"
+ },
+ {
+  "nombre_profe": "VALDERRAMA, S.",
+  "veces_ev": 17,
+  "veces_guía": 6,
+  "promedio_PGA": "5.54",
+  "promedio_título": "5.28",
+  "promedio_seminario": "5.72"
+ },
+ {
+  "nombre_profe": "CIRAVEGNA, E.",
+  "veces_ev": 17,
+  "veces_guía": 4,
+  "promedio_PGA": "5.37",
+  "promedio_título": "6.40",
+  "promedio_seminario": "6.13"
+ },
+ {
+  "nombre_profe": "SANCHEZ, P.",
+  "veces_ev": 17,
+  "veces_guía": 13,
+  "promedio_PGA": "5.57",
+  "promedio_título": "6.38",
+  "promedio_seminario": "6.43"
+ },
+ {
+  "nombre_profe": "RICO, M.",
+  "veces_ev": 16,
+  "veces_guía": 7,
+  "promedio_PGA": "5.43",
+  "promedio_título": "6.46",
+  "promedio_seminario": "6.24"
+ },
+ {
+  "nombre_profe": "EDWARDS, C.",
+  "veces_ev": 16,
+  "veces_guía": 1,
+  "promedio_PGA": "5.11",
+  "promedio_título": "6.30",
+  "promedio_seminario": "6.50"
+ },
+ {
+  "nombre_profe": "RODRIGUEZ, I.",
+  "veces_ev": 15,
+  "veces_guía": 2,
+  "promedio_PGA": "-",
+  "promedio_título": "5.50",
+  "promedio_seminario": "5.80"
+ },
+ {
+  "nombre_profe": "MORALES, G.",
+  "veces_ev": 15,
+  "veces_guía": 14,
+  "promedio_PGA": "5.59",
+  "promedio_título": "6.16",
+  "promedio_seminario": "6.04"
+ },
+ {
+  "nombre_profe": "CONTRERAS, M.",
+  "veces_ev": 15,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "VELEZ, J.",
+  "veces_ev": 14,
+  "veces_guía": 4,
+  "promedio_PGA": "5.51",
+  "promedio_título": "5.85",
+  "promedio_seminario": "5.45"
+ },
+ {
+  "nombre_profe": "PARR, J.",
+  "veces_ev": 14,
+  "veces_guía": 2,
+  "promedio_PGA": "-",
+  "promedio_título": "5.90",
+  "promedio_seminario": "6.00"
+ },
+ {
+  "nombre_profe": "UBILLA, M.",
+  "veces_ev": 13,
+  "veces_guía": 9,
+  "promedio_PGA": "-",
+  "promedio_título": "6.14",
+  "promedio_seminario": "6.19"
+ },
+ {
+  "nombre_profe": "AGUILA, E.",
+  "veces_ev": 12,
+  "veces_guía": 7,
+  "promedio_PGA": "5.08",
+  "promedio_título": "6.13",
+  "promedio_seminario": "6.28"
+ },
+ {
+  "nombre_profe": "BRIONES, M.",
+  "veces_ev": 12,
+  "veces_guía": 4,
+  "promedio_PGA": "-",
+  "promedio_título": "6.10",
+  "promedio_seminario": "6.10"
+ },
+ {
+  "nombre_profe": "LA RIVERA, B.",
+  "veces_ev": 12,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "RODRIGUEZ, C.",
+  "veces_ev": 11,
+  "veces_guía": 8,
+  "promedio_PGA": "-",
+  "promedio_título": "5.88",
+  "promedio_seminario": "5.82"
+ },
+ {
+  "nombre_profe": "BLANCH, A.",
+  "veces_ev": 11,
+  "veces_guía": 4,
+  "promedio_PGA": "5.05",
+  "promedio_título": "5.35",
+  "promedio_seminario": "4.95"
+ },
+ {
+  "nombre_profe": "CRISTI, N.",
+  "veces_ev": 11,
+  "veces_guía": 4,
+  "promedio_PGA": "5.56",
+  "promedio_título": "5.78",
+  "promedio_seminario": "5.78"
+ },
+ {
+  "nombre_profe": "GRAHAM, J.",
+  "veces_ev": 11,
+  "veces_guía": 1,
+  "promedio_PGA": "4.83",
+  "promedio_título": "5.30",
+  "promedio_seminario": "6.30"
+ },
+ {
+  "nombre_profe": "BAGU, S.",
+  "veces_ev": 9,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MORA, G.",
+  "veces_ev": 9,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "HERNANDEZ, R.",
+  "veces_ev": 9,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "HEPP, C.",
+  "veces_ev": 9,
+  "veces_guía": 8,
+  "promedio_PGA": "5.92",
+  "promedio_título": "6.39",
+  "promedio_seminario": "6.39"
+ },
+ {
+  "nombre_profe": "SIMIAN, M.",
+  "veces_ev": 9,
+  "veces_guía": 5,
+  "promedio_PGA": "5.72",
+  "promedio_título": "6.08",
+  "promedio_seminario": "5.78"
+ },
+ {
+  "nombre_profe": "VILLALOBOS, C.",
+  "veces_ev": 8,
+  "veces_guía": 7,
+  "promedio_PGA": "5.17",
+  "promedio_título": "5.76",
+  "promedio_seminario": "5.51"
+ },
+ {
+  "nombre_profe": "ZEPPELIN, S.",
+  "veces_ev": 8,
+  "veces_guía": 5,
+  "promedio_PGA": "5.55",
+  "promedio_título": "5.40",
+  "promedio_seminario": "6.02"
+ },
+ {
+  "nombre_profe": "BERNASCONI, R.",
+  "veces_ev": 8,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "OVIEDO, N.",
+  "veces_ev": 8,
+  "veces_guía": 1,
+  "promedio_PGA": "5.14",
+  "promedio_título": "6.60",
+  "promedio_seminario": "5.90"
+ },
+ {
+  "nombre_profe": "MORA, M.",
+  "veces_ev": 8,
+  "veces_guía": 5,
+  "promedio_PGA": "5.38",
+  "promedio_título": "6.14",
+  "promedio_seminario": "5.84"
+ },
+ {
+  "nombre_profe": "TORO, F.",
+  "veces_ev": 8,
+  "veces_guía": 6,
+  "promedio_PGA": "5.19",
+  "promedio_título": "5.58",
+  "promedio_seminario": "5.88"
+ },
+ {
+  "nombre_profe": "ESPINOZA, G.",
+  "veces_ev": 7,
+  "veces_guía": 4,
+  "promedio_PGA": "-",
+  "promedio_título": "6.15",
+  "promedio_seminario": "5.75"
+ },
+ {
+  "nombre_profe": "DOMPER, M.",
+  "veces_ev": 7,
+  "veces_guía": 1,
+  "promedio_PGA": "5.18",
+  "promedio_título": "5.40",
+  "promedio_seminario": "5.80"
+ },
+ {
+  "nombre_profe": "KAPLUN, M.",
+  "veces_ev": 7,
+  "veces_guía": 2,
+  "promedio_PGA": "5.30",
+  "promedio_título": "4.75",
+  "promedio_seminario": "5.40"
+ },
+ {
+  "nombre_profe": "HURTADO, A.",
+  "veces_ev": 7,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "DUMMER, S.",
+  "veces_ev": 7,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "VIO, O.",
+  "veces_ev": 7,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "VEGA, M.",
+  "veces_ev": 7,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "PACHECO, C.",
+  "veces_ev": 7,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "CAÑAS, J.",
+  "veces_ev": 6,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "HOLMES, R.",
+  "veces_ev": 6,
+  "veces_guía": 2,
+  "promedio_PGA": "-",
+  "promedio_título": "5.60",
+  "promedio_seminario": "5.60"
+ },
+ {
+  "nombre_profe": "BARBE, K.",
+  "veces_ev": 6,
+  "veces_guía": 1,
+  "promedio_PGA": "5.12",
+  "promedio_título": "6.30",
+  "promedio_seminario": "6.00"
+ },
+ {
+  "nombre_profe": "MOLINA, R.",
+  "veces_ev": 6,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ROBERTSON, N.",
+  "veces_ev": 6,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MERINO, L.",
+  "veces_ev": 6,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MOYANO, D.",
+  "veces_ev": 6,
+  "veces_guía": 5,
+  "promedio_PGA": "5.20",
+  "promedio_título": "6.10",
+  "promedio_seminario": "6.10"
+ },
+ {
+  "nombre_profe": "MORALES, N.",
+  "veces_ev": 6,
+  "veces_guía": 4,
+  "promedio_PGA": "-",
+  "promedio_título": "5.53",
+  "promedio_seminario": "5.83"
+ },
+ {
+  "nombre_profe": "HAMILTON, B.",
+  "veces_ev": 5,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "BEGOÑA, M.",
+  "veces_ev": 5,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MORENO, A.",
+  "veces_ev": 5,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "NOVOA, H.",
+  "veces_ev": 5,
+  "veces_guía": 6,
+  "promedio_PGA": "5.34",
+  "promedio_título": "6.25",
+  "promedio_seminario": "6.33"
+ },
+ {
+  "nombre_profe": "CORTES, J.",
+  "veces_ev": 4,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "VIDAL, J.",
+  "veces_ev": 4,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "LARRAIN, M.",
+  "veces_ev": 4,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ROMAN, C.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "LYON, E.",
+  "veces_ev": 3,
+  "veces_guía": 2,
+  "promedio_PGA": "-",
+  "promedio_título": "5.90",
+  "promedio_seminario": "6.00"
+ },
+ {
+  "nombre_profe": "MENICHETTI, F.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ROJAS, J.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MANRIQUEZ, A.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "SILVA, Z.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "KARICH, J.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "DE LOS RÍOS, P.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "CHILET, M.",
+  "veces_ev": 3,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MOLINA, J.",
+  "veces_ev": 2,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "NARANJO, J.",
+  "veces_ev": 2,
+  "veces_guía": 9,
+  "promedio_PGA": "-",
+  "promedio_título": "5.67",
+  "promedio_seminario": "5.59"
+ },
+ {
+  "nombre_profe": "GONZALEZ, A.",
+  "veces_ev": 2,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "HOCES, M.",
+  "veces_ev": 2,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MOLLENHAUER, K",
+  "veces_ev": 2,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ROZAS, D.",
+  "veces_ev": 2,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ADRIASOLA, F.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "MIRANDA, I.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "HERNANDEZ, C.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "SALCEDO, R.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ALONSO, R.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "PRIZTO, J.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "VICUÑA, M.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ROJAS, J.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "GALVEZ, G.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "CASTILLO, E.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "ARANEDA, R",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "GONZALEZ, P.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "GUROVIC, G.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "HINRICHSEN, C.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "VILCHES, F.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "GUERRA, J.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "BRAVO, L.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ },
+ {
+  "nombre_profe": "SANDOVAL, G.",
+  "veces_ev": 1,
+  "veces_guía": 0,
+  "promedio_PGA": "-",
+  "promedio_título": "-",
+  "promedio_seminario": "-"
+ }
+]
